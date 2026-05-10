@@ -65,8 +65,8 @@ The system predicts the building heating demand and classifies the building into
 
 ## Objective
 
-*This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
-*This project is intended for educational and demonstration purposes.
+* This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
+* This project is intended for educational and demonstration purposes.
 
 ---
 
