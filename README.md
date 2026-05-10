@@ -6,7 +6,7 @@ A Machine Learning application that predicts the **Heating Load of residential b
 
 ## Project Overview
 
-This project uses a trained **Random Forest Regression** model with **SelectKBest** feature selection to estimate building energy efficiency from user inputs such as:
+This project uses an LLM-generated dataset to train a Random Forest Regression model with SelectKBest feature selection to estimate building energy efficiency from user inputs such as:
 
 * Relative Compactness
 * Building Type
@@ -66,6 +66,7 @@ The system predicts the building heating demand and classifies the building into
 ## Objective
 
 This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
+This project is intended for educational and demonstration purposes.
 
 ---
 
