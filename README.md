@@ -1,6 +1,6 @@
 # ML Building Energy Predictor
 
-A Machine Learning and Django-based web application that predicts the **Heating Load of residential buildings** based on architectural and energy-related parameters.
+A Machine Learning application that predicts the **Heating Load of residential buildings** based on architectural and energy-related parameters.
 
 ---
 
@@ -26,13 +26,10 @@ The web interface is developed using Django and allows users to enter building p
 ## Technologies Used
 
 * Python
-* Django
 * Scikit-learn
 * Pandas
 * NumPy
 * Pickle
-* HTML
-* Bootstrap
 
 ---
 
@@ -51,7 +48,6 @@ The web interface is developed using Django and allows users to enter building p
 * Real-time Prediction
 * Energy Rating Classification
 * Machine Learning Model Deployment
-* User-Friendly Web Interface
 * Sustainable Building Energy Analysis
 
 ---
@@ -69,7 +65,7 @@ The system predicts the building heating demand and classifies the building into
 
 ## Objective
 
-This project demonstrates the integration of Machine Learning models into a full-stack web application for sustainable building analysis and energy prediction.
+This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
 
 ---
 
