@@ -16,7 +16,7 @@ This project uses an LLM-generated dataset to train a Random Forest Regression m
 * Overall Height
 * Glazing Area Ratio
 
-The web interface is developed using Django and allows users to enter building parameters through an interactive form and instantly receive:
+The deployment allows users to enter building parameters and instantly receive:
 
 * Predicted Heating Load (kWh/m²)
 * Energy Efficiency Rating
@@ -65,8 +65,8 @@ The system predicts the building heating demand and classifies the building into
 
 ## Objective
 
-This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
-This project is intended for educational and demonstration purposes.
+*This project demonstrates the integration of Machine Learning modelsfor sustainable building analysis and energy prediction.
+*This project is intended for educational and demonstration purposes.
 
 ---
 
